@@ -1,6 +1,7 @@
 'use client';
 import { createTheme } from '@mui/material/styles';
 import { Roboto } from 'next/font/google';
+import type {} from '@mui/material/themeCssVarsAugmentation';
 
 const roboto = Roboto({
   weight: ['300', '400', '500', '700'],
