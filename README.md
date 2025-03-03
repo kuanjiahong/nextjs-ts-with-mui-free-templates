@@ -38,3 +38,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## Acknowledgement
 - [Nextjs App Router MUI Starter](https://github.com/mui/material-ui/tree/v6.x/examples/material-ui-nextjs-ts)
+- [MUI Free React Template](https://mui.com/material-ui/getting-started/templates/)
